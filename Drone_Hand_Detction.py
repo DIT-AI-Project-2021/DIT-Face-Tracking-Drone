@@ -1,3 +1,7 @@
+##############################
+# 작업 중인 소스(김종현 교수)
+##############################
+
 import cv2
 import mediapipe as mp
 from djitellopy import Tello
