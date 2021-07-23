@@ -1,3 +1,7 @@
+##############################
+# 2. Hand Gesture in PC(Murtaza)
+##############################
+
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 from cvzone.FaceDetectionModule import FaceDetector
